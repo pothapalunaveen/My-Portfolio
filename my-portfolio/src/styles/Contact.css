@@ -1,0 +1,36 @@
+.contact-section {
+    margin: 10rem auto;
+    max-width: 900px;
+    padding: 2rem;
+    text-align: center;
+  }
+  
+  .contact-heading {
+    font-size: 3rem;
+    font-weight: bold;
+    color: #10b981;
+    margin-bottom: 1.5rem;
+  }
+  
+  .contact-container {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+    align-items: center;
+  }
+  
+  .contact-item {
+    font-size: 1.2rem;
+    color: #333;
+  }
+  
+  .contact-link {
+    color: #0d9488;
+    text-decoration: none;
+    font-weight: bold;
+  }
+  
+  .contact-link:hover {
+    text-decoration: underline;
+  }
+  
